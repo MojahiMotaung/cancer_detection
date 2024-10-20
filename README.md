@@ -1,4 +1,4 @@
-# Skin Cancer Detection & Dermatological Image Classification Using IBM Z
+# Skin Cancer Detection & Dermatological Image Classification Using IBM Z - CodeHnt TUT33
 
 ## Problem Statement
 
